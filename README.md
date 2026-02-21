@@ -11,6 +11,8 @@ Key Differentiators:
    Continuous Operation: 24/7 security validation rather than periodic manual pentests.
    Agentic Workflow: Capable of chaining exploits and pivoting, simulating real human adversary behavior.
 
+<img width="3815" height="1962" alt="image" src="https://github.com/user-attachments/assets/995f0aae-7141-41b0-83b8-7e0870c45845" />
+
 ---
 
 ## 2. Problem Statement
@@ -28,6 +30,8 @@ Modern enterprises face a critical asymmetry: defenders must be right 100% of th
    Regulatory Non-Compliance: Failure to demonstrate continuous security validation.
    Reputational Damage: Data breaches resulting from preventable exploits.
 
+---
+<img width="3800" height="1877" alt="image" src="https://github.com/user-attachments/assets/3972a002-145d-4703-8cfa-94cc107abfd5" />
 ---
 
 ## 3. Solution Overview
@@ -126,6 +130,8 @@ AEGIS employs a Goal-Oriented Agentic Architecture.
 
 ---
 
+<img width="2097" height="1262" alt="image" src="https://github.com/user-attachments/assets/85dd7294-5d61-4514-b529-5d3d4e57fcd3" />
+
 ## 7. User Workflow (Step-by-Step)
 
 1.  Initialization: User accesses the AEGIS web portal.
@@ -144,6 +150,8 @@ AEGIS employs a Goal-Oriented Agentic Architecture.
 As an offensive security tool powered by AI, AEGIS faces unique risks. We adhere to the OWASP Top 10 for LLM Applications.
 
 ### Agentic AI Risks & Mitigations
+
+<img width="2895" height="1295" alt="image" src="https://github.com/user-attachments/assets/299f35dd-756d-489e-9e8a-f158c5831ed0" />
 
 #### ASI01: Agent Goal Hijack
    Threat: An attacker (or the target website itself via prompt injection) convinces the agent to ignore its safety rules or attack a different target.
@@ -175,6 +183,7 @@ As an offensive security tool powered by AI, AEGIS faces unique risks. We adhere
        Evidence-Based Reporting: Every finding must be accompanied by the raw HTTP request/response evidence.
        Disclaimer: UI clearly labels results as "AI-Generated - Verify Manually."
 
+<img width="3702" height="1162" alt="image" src="https://github.com/user-attachments/assets/7e811b5f-f414-41a0-a352-25abd8bce25e" />
 ---
 
 ## 9. Compliance & Governance
